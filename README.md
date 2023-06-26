@@ -10,3 +10,7 @@ Tratamento de exceções integrado
 Transação distribuída (Saga, event-drive, roteamento)
 Agendamento de mensagens
 Monitoramento
+
+# Instalação e Configuração do RabbitMQ
+https://www.rabbitmq.com/install-windows.html
+https://lostechies.com/derekgreer/2012/03/05/rabbitmq-for-windows-introduction/
