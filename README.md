@@ -13,4 +13,5 @@ Monitoramento
 
 # Instalação e Configuração do RabbitMQ
 https://www.rabbitmq.com/install-windows.html
+
 https://lostechies.com/derekgreer/2012/03/05/rabbitmq-for-windows-introduction/
